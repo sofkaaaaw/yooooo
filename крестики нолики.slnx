@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="крестики нолики/крестики нолики.vcxproj" Id="e15d0465-78bf-4447-9f3f-7ab34f824dc3" />
+</Solution>
